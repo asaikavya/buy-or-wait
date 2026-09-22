@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BuyOrWait.Api/BuyOrWait.Api.csproj" />
+  <Project Path="BuyOrWait.Application/BuyOrWait.Application.csproj" />
+  <Project Path="BuyOrWait.Infrastructure/BuyOrWait.Infrastructure.csproj" />
+  <Project Path="BuyOrWait.Tests/BuyOrWait.Tests.csproj" />
+</Solution>
